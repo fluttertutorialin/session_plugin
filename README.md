@@ -1,5 +1,5 @@
 # Session plugin
-Session plugin for storing data using shared preferences in Android.
+Session plugin for storing data using shared preferences in Android and ios UserDefaults on working.
 It is highly dependent on ```Session plugin```. Stored data is not any encrypted data. In order for the package to function properly,it is required to protect a device with a screen lock.
 
 ## Features
